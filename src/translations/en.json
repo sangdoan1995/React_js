@@ -1,4 +1,15 @@
 {
+
+    "homeheader":{
+        "specialty":"Specialty",
+        "searchdoctor":"Search specialty",
+        "healthFacility":"Health Facility",
+        "chooseFacility":"Choose Facility hopital",
+        "doctor":"Doctor",
+        "chooseDoctor":"Choose Doctor",
+        "packageExamination":"Package Examination",
+        "choosePackage":"General Health Examination"
+    },
     "common": {
         "add": "Add",
         "edit": "Edit",
