@@ -1,4 +1,15 @@
 {
+    "homeheader":{
+        "specialty":"Chuyen Khoa",
+        "searchdoctor":"Chon chuyen khoa",
+        "healthFacility":"Co so y te",
+        "chooseFacility":"Chon Co So Y te",
+        "doctor":"Bac si",
+        "chooseDoctor":"Chon Bac si",
+        "packageExamination":"Goi Kham",
+        "choosePackage":"Kham Tong Quat"
+
+    },
     "common": {
         "add": "Thêm",
         "edit": "Sửa",
